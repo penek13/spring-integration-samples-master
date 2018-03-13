@@ -14,7 +14,7 @@ Welcome to the **Spring Integration Samples** repository which provides **50+ sa
 * Advanced
 * Applications
 * DSL
-
+ 
 Inside of each category you'll find a **README.md** file, which will contain a more detailed description of that category. Each sample also comes with its own **README.md** file explaining further details, e.g. how to run the respective sample.
 
 | For additional samples, please also checkout the [Spring Integration Extensions][] project as it also provides numerous samples.
